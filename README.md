@@ -1,4 +1,4 @@
-<h1 align="left">Mukhammadi - The Node.js Developer - Toshtemirov</h1>
+<h1 align="left">Mukhammadi - The Node.js Developer</h1>
 
 <h3 align="left">Hi, there!👋</h3>
 
