@@ -5,8 +5,8 @@
 <img src="https://rawgithubusercontent.com/aemadi/master/wave.gif" width="30" />
 
 I am Toshtemirov Mukhammadi. I am a back-end software engineer specializing in
-building hight load back-end services, web applications, adn systems using JS
-anf Node. I solve problems, automate things, help businesses and people to grow
+building hight load back-end services, web applications, and systems using JS
+and Node. I solve problems, automate things, help businesses and people to grow
 and improve life <br />
 
 I am always open to collaborating on projects and innovative/disruptive ideas.
