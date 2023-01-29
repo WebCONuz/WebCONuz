@@ -1,6 +1,7 @@
-<h1 align="center">Mukhammadi - The Node.js Developer - Toshtemirov</h1>
+<h1 align="left">Mukhammadi - The Node.js Developer - Toshtemirov</h1>
 
-## Hi, there!
+<h3 align="left">Hi, there!👋</h3>
+
 <img src="https://rawgithubusercontent.com/aemadi/master/wave.gif" width="30" />
 
 I am Toshtemirov Mukhammadi. I am a back-end software engineer specializing in
@@ -14,7 +15,7 @@ Find out more about me & feel free to connect with me here:
 [![Intagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/muxammadi_toshtemirov)](https://www.instagram.com/muxammadi_toshtemirov)
 [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/toshtemirov_muxammadi)](https://t.me/toshtemirov_muxammadi)
 
-<h3 align="left">About Me:</h3>
+<h3 align="left">👨‍💻 About Me:</h3>
 
 - :computer: I'm currently working on Node.js & Vue.js
 - :hourglass_flowing_sand: RestApi & Event Driven Architecture
