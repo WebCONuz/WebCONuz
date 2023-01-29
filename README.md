@@ -128,3 +128,7 @@ Find out more about me & feel free to connect with me here:
     src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"
   />
 </p>
+
+<p align="center"><img src="https://github-readme-stays.vercel.app/api?usernameWebCONuz&show_icons=true&theme=gotham" alt="WebCONuz" /></p>
+<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=WebCONuz&theme=onestar&row=1&margin-w=15&margin-h=15&no-bg=true" alt="WebCONuz" /></a></p>
+
