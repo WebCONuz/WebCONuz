@@ -1,4 +1,4 @@
-<h1 align="left">Mukhammadi - The Node.js Developer</h1>
+<h1 align="left">Mukhammadi - The Node.js Developer - Toshtemirov</h1>
 
 <h3 align="left">Hi, there!👋</h3>
 
@@ -28,6 +28,10 @@ Find out more about me & feel free to connect with me here:
 <h3 align="left">⚡ Languages and Tools:</h3>
 <p>
   <img
+    alt="Javascript"
+    src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"
+  />
+  <img
     alt="React"
     src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
   />
@@ -36,24 +40,28 @@ Find out more about me & feel free to connect with me here:
     src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"
   />
   <img
-    alt="Github"
-    src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white"
+    alt="JWT"
+    src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white"
   />
   <img
-    alt="Prettier"
-    src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E"
+    alt="Github"
+    src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"
   />
   <img
     alt="Vue.js"
     src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"
   />
   <img
+    alt="Vite"
+    src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E"
+  />
+  <img
     alt="Bootstrap"
     src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"
   />
   <img
-    alt="Heroku"
-    src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"
+    alt="Redux"
+    src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"
   />
   <img
     alt="MySQL"
@@ -66,6 +74,10 @@ Find out more about me & feel free to connect with me here:
   <img
     alt="JQuery"
     src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"
+  />
+  <img
+    alt="CSS3"
+    src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"
   />
   <img
     alt="TypeScript"
@@ -84,12 +96,24 @@ Find out more about me & feel free to connect with me here:
     src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"
   />
   <img
+    alt="Nuxt"
+    src="https://img.shields.io/badge/nuxt.js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white"
+  />
+  <img
     alt="Postman"
     src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"
   />
   <img
+    alt="Handlebars"
+    src="https://img.shields.io/badge/Handlebars.js-f0772b?style=for-the-badge&logo=handlebarsdotjs&logoColor=black"
+  />
+  <img
     alt="html5"
     src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
+  />
+  <img
+    alt="Figma"
+    src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"
   />
   <img
     alt="git"
@@ -126,5 +150,9 @@ Find out more about me & feel free to connect with me here:
   <img
     alt="Nodejs"
     src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"
+  />
+  <img
+    alt="VScode"
+    src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"
   />
 </p>
