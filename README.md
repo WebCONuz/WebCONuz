@@ -1,6 +1,6 @@
-<h1 align="left">Mukhammadi - The Node.js Developer - Toshtemirov</h1>
+<h1 align="left">Hi, I'm Mukhammadi 👋</h1>
 
-<h3 align="left">Hi, there!👋</h3>
+<h3 align="left">The Full Stack Web Developer</h3>
 
 <img src="https://rawgithubusercontent.com/aemadi/master/wave.gif" width="30" />
 
