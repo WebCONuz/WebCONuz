@@ -2,28 +2,14 @@
 
 <h3 align="left">The Full Stack Web Developer</h3>
 
-<img src="https://rawgithubusercontent.com/aemadi/master/wave.gif" width="30" />
-
-I am Toshtemirov Mukhammadi. I am a back-end software engineer specializing in
+I am Toshtemirov Mukhammadi. I am a fullstack software engineer specializing in
 building hight load back-end services, web applications, and systems using JS
 and Node. I solve problems, automate things, help businesses and people to grow
-and improve life <br />
-
-I am always open to collaborating on projects and innovative/disruptive ideas.
+and improve life. I am always open to collaborating on projects and innovative/disruptive ideas.
 Find out more about me & feel free to connect with me here:
 
 [![Intagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/muxammadi_toshtemirov)](https://www.instagram.com/muxammadi_toshtemirov)
 [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/toshtemirov_muxammadi)](https://t.me/toshtemirov_muxammadi)
-
-<h3 align="left">👨‍💻 About Me:</h3>
-
-- :computer: I'm currently working on Node.js & Vue.js
-- :hourglass_flowing_sand: RestApi & Event Driven Architecture
-- :triangular_flag_on_post: I teach frontend on online lessons
-- :pencil: I'm currently learning more on Algorithms and better DevOps Practices
-- :speech_balloon: You can get in touch with me by email at muxammadi0799@gmail.com
-- :zap: Fun fact: I :heart: sport and CS Gaming
-
 
 <h3 align="left">⚡ Languages and Tools:</h3>
 <p>
