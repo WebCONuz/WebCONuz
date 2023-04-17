@@ -10,6 +10,7 @@ Find out more about me & feel free to connect with me here:
 
 [![Intagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/muxammadi_toshtemirov)](https://www.instagram.com/muxammadi_toshtemirov)
 [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/toshtemirov_muxammadi)](https://t.me/toshtemirov_muxammadi)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/muxammadi-toshtemirov-a4b81526a)](https://www.linkedin.com/in/muxammadi-toshtemirov-a4b81526a)
 
 <h3 align="left">⚡ Languages and Tools:</h3>
 <p>
