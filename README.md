@@ -2,10 +2,7 @@
 
 <h3 align="left">The Full Stack Web Developer</h3>
 
-I am Toshtemirov Mukhammadi. I am a fullstack software engineer specializing in
-building hight load back-end services, web applications, and systems using JS
-and Node. I solve problems, automate things, help businesses and people to grow
-and improve life. I am always open to collaborating on projects and innovative/disruptive ideas.
+I am a full-stack developer with expertise in Node.js, Vue.js, and React technologies. I am passionate about solving complex problems, creating various web applications, and developing software that automates daily life processes. With my skills, I strive to contribute to society by building innovative solutions that make life easier for people. I am always open to collaborating on projects and innovative/disruptive ideas.
 Find out more about me & feel free to connect with me here:
 
 [![Intagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/muxammadi_toshtemirov)](https://www.instagram.com/muxammadi_toshtemirov)
