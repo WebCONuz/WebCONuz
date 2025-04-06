@@ -2,10 +2,10 @@
 
 <h3 align="left">Full-Stack Developer | Node.js Backend | React & Vue Frontend</h3>
 
-I'm a passionate Full-Stack Developer specializing in Node.js for backend and modern frontend frameworks like React & Vue.js. I thrive on building scalable, high-performance web applications with clean, efficient code. 
-🔹 Backend Expertise: RESTful APIs, Express.js, MongoDB/PostgreSQL, Authentication (JWT/OAuth), Microservices
-🔹 Frontend Skills: React.js, Vue.js, TypeScript, Redux/Pinia, Tailwind CSS, Responsive Design
-🔹 DevOps & Tools: Docker, Git, CI/CD, AWS/Heroku, Testing (Jest/Mocha)
+I'm a passionate Full-Stack Developer specializing in Node.js for backend and modern frontend frameworks like React & Vue.js. I thrive on building scalable, high-performance web applications with clean, efficient code.<br/>
+🔹 Backend Expertise: RESTful APIs, Express.js, MongoDB/PostgreSQL, Authentication (JWT/OAuth), Microservices<br/>
+🔹 Frontend Skills: React.js, Vue.js, TypeScript, Redux/Pinia, Tailwind CSS, Responsive Design<br/>
+🔹 DevOps & Tools: Docker, Git, CI/CD, AWS/Heroku, Testing (Jest/Mocha)<br/>
 I love solving complex problems, optimizing performance, and collaborating on innovative projects. Open to open-source contributions and exciting opportunities!
 
 Find out more about me & feel free to connect with me here:
