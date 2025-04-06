@@ -3,9 +3,9 @@
 <h3 align="left">Full-Stack Developer | Node.js Backend | React & Vue Frontend</h3>
 
 I'm a passionate Full-Stack Developer specializing in Node.js for backend and modern frontend frameworks like React & Vue.js. I thrive on building scalable, high-performance web applications with clean, efficient code. I love solving complex problems, optimizing performance, and collaborating on innovative projects. Open to open-source contributions and exciting opportunities!<br/><br/>
-🔹 Backend Expertise: RESTful APIs, Express.js, MongoDB/PostgreSQL, Authentication (JWT/OAuth), Microservices<br/>
-🔹 Frontend Skills: React.js, Vue.js, TypeScript, Redux/Pinia, Tailwind CSS, Responsive Design<br/>
-🔹 DevOps & Tools: Docker, Git, CI/CD, AWS/Heroku, Testing (Jest/Mocha)<br/>
+🔹 <b>Backend Expertise:</b> RESTful APIs, Express.js, MongoDB/PostgreSQL, Authentication (JWT/OAuth), Microservices<br/>
+🔹 <b>Frontend Skills:</b> React.js, Vue.js, TypeScript, Redux/Pinia, Tailwind CSS, Responsive Design<br/>
+🔹 <b>DevOps & Tools:</b> Docker, Git, CI/CD, AWS/Heroku, Testing (Jest/Mocha)<br/>
 
 
 Find out more about me & feel free to connect with me here:
@@ -29,20 +29,12 @@ Find out more about me & feel free to connect with me here:
     src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"
   />
   <img
-    alt="JWT"
-    src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white"
-  />
-  <img
     alt="Github"
     src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"
   />
   <img
     alt="Vue.js"
     src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"
-  />
-  <img
-    alt="Vite"
-    src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E"
   />
   <img
     alt="Bootstrap"
@@ -61,10 +53,6 @@ Find out more about me & feel free to connect with me here:
     src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"
   />
   <img
-    alt="JQuery"
-    src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"
-  />
-  <img
     alt="CSS3"
     src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"
   />
@@ -75,10 +63,6 @@ Find out more about me & feel free to connect with me here:
   <img
     alt="Docker"
     src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"
-  />
-  <img
-    alt="Webpack"
-    src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white"
   />
   <img
     alt="Tailwind"
@@ -117,10 +101,6 @@ Find out more about me & feel free to connect with me here:
     src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"
   />
   <img
-    alt="npm"
-    src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"
-  />
-  <img
     alt="GraphQL"
     src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white"
   />
@@ -139,9 +119,5 @@ Find out more about me & feel free to connect with me here:
   <img
     alt="Nodejs"
     src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"
-  />
-  <img
-    alt="VScode"
-    src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"
   />
 </p>
