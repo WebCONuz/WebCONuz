@@ -21,15 +21,13 @@ NestJS/PostgreSQL API that turns uploaded PDF/DOCX files into ready quiz questio
 Multi-tenant NestJS/Prisma backend for schools to run attendance- and homework-based reward programs: tenant-isolated data, a level-based role hierarchy (creator → super admin → admin → teacher → student), and a transaction-ledger wallet — balances only ever change through logged transactions, never direct writes. Also generates recurring class sessions from weekly schedule templates with exception handling. React frontend built feature-by-feature with TanStack Query and Zustand.
 
 <br/>
-
 ### 📫 Connect
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/toshtemirov_muxammadi)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muxammadi-toshtemirov-a4b81526a)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://toshtemirov.netlify.app)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Mukhammadi_Dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mukhammadi-toshtemirov-a4b81526a/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mukhammadidev.netlify.app/)
 
 <br/>
-
 <details>
 <summary><b>🧰 Full tech stack</b></summary>
 <br/>
