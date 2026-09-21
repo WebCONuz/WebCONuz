@@ -2,23 +2,23 @@
 
 <h3 align="left">Frontend Developer (React / Vue) · Full-Stack Capable</h3>
 
-Frontend-focused developer who ships production-ready React & Vue applications and can own the backend and system architecture behind them when a project needs it. I've built [N+] full-stack products end-to-end — from database schema and REST/GraphQL APIs to pixel-perfect, responsive UI — for personal ventures and startup teams. I care about clean component architecture, state management that scales, and performance that holds up under real usage.
+Frontend-focused developer who ships production-ready React, Vue & Next.js applications and owns the backend and system architecture behind them when a project needs it. I design multi-tenant data models, build the APIs on top of them, and turn that into fast, role-aware interfaces — most recently an AI-assisted testing platform and a multi-tenant gamification SaaS. I care about feature-based architecture, state management that scales, and systems that hold up under real usage.
 
 <br/>
 
-🔹 **Frontend:** React.js, Vue.js/Nuxt.js, TypeScript, Redux/Pinia, Tailwind CSS — component architecture, state management, performance & accessibility<br/>
-🔹 **Backend & Architecture:** Node.js, Express.js, NestJS, REST & GraphQL APIs, PostgreSQL/MongoDB, JWT/OAuth, microservices design<br/>
+🔹 **Frontend:** React.js, Next.js, Vue.js/Nuxt.js, TypeScript, TanStack Query, Redux/Zustand/Pinia, Tailwind CSS — feature-based architecture, role-aware routing, performance<br/>
+🔹 **Backend & Architecture:** Node.js, NestJS, Express.js, REST APIs, Prisma, PostgreSQL/MongoDB, JWT auth, multi-tenant & RBAC system design<br/>
 🔹 **Delivery:** Docker, CI/CD, Git, automated testing (Jest/Mocha)
 
 <br/>
 
 ### 💼 Selected Work
 
-**[Edu Test](https://github.com/MukhammadiDev/edu-test)** — Full-stack online testing platform ([backend](https://github.com/MukhammadiDev/edu-test) · [frontend](https://github.com/MukhammadiDev/edu-test-frontend))
-Designed the REST API and PostgreSQL schema, built the React frontend; used by [N] students / handles [N] concurrent tests.
+**[Edu Test](https://github.com/WebCONuz/edu-test)** — AI-assisted online testing platform ([backend](https://github.com/WebCONuz/edu-test) · [frontend](https://github.com/WebCONuz/edu-test-frontend))
+NestJS/PostgreSQL API that turns uploaded PDF/DOCX files into ready quiz questions — a 3-provider AI fallback chain (Gemini → Groq → OpenRouter) extracts and generates questions, and math formulas are converted from Word's native format straight to LaTeX. Rate limiting, cookie-based JWT auth, and role-scoped permissions (super admin / admin / teacher / student) throughout. Next.js 15 frontend with role-based middleware routing and live LaTeX rendering via KaTeX.
 
-**[ERP Coin System](https://github.com/MukhammadiDev/erp-coin-system-backend)** — Gamified student rewards platform ([backend](https://github.com/MukhammadiDev/erp-coin-system-backend) · [frontend](https://github.com/MukhammadiDev/erp-coin-system-frontend))
-End-to-end architecture and implementation: earn/redeem coin logic, role-based auth, admin dashboard.
+**[ERP Coin System](https://github.com/WebCONuz/erp-coin-system-backend)** — Multi-tenant gamification platform ([backend](https://github.com/WebCONuz/erp-coin-system-backend) · [frontend](https://github.com/WebCONuz/erp-coin-system-frontend))
+Multi-tenant NestJS/Prisma backend for schools to run attendance- and homework-based reward programs: tenant-isolated data, a level-based role hierarchy (creator → super admin → admin → teacher → student), and a transaction-ledger wallet — balances only ever change through logged transactions, never direct writes. Also generates recurring class sessions from weekly schedule templates with exception handling. React frontend built feature-by-feature with TanStack Query and Zustand.
 
 <br/>
 
@@ -47,6 +47,9 @@ End-to-end architecture and implementation: earn/redeem coin logic, role-based a
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
   <br/>
   <img alt="Nodejs" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+  <img alt="Nextjs" src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+  <img alt="TanStack Query" src="https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white"/>
+  <img alt="Zustand" src="https://img.shields.io/badge/Zustand-433E38?style=flat-square"/>
   <img alt="Express" src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
   <img alt="NestJs" src="https://img.shields.io/badge/nestjs-E0234E?style=flat-square&logo=nestjs&logoColor=white"/>
   <img alt="GraphQL" src="https://img.shields.io/badge/GraphQl-E10098?style=flat-square&logo=graphql&logoColor=white"/>
@@ -66,6 +69,6 @@ End-to-end architecture and implementation: earn/redeem coin logic, role-based a
 <br/>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=MukhammadiDev&show_icons=true&theme=default&hide_border=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MukhammadiDev&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=WebCONuz&show_icons=true&theme=default&hide_border=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WebCONuz&hide_border=true" height="150"/>
 </p>
