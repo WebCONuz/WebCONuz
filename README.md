@@ -3,13 +3,11 @@
 <h3 align="left">Frontend Developer (React / Vue) · Full-Stack Capable</h3>
 
 Frontend-focused developer who ships production-ready React, Vue & Next.js applications and owns the backend and system architecture behind them when a project needs it. I design multi-tenant data models, build the APIs on top of them, and turn that into fast, role-aware interfaces — most recently an AI-assisted testing platform and a multi-tenant gamification SaaS. I care about feature-based architecture, state management that scales, and systems that hold up under real usage.
-
 <br/>
 
 🔹 **Frontend:** React.js, Next.js, Vue.js/Nuxt.js, TypeScript, TanStack Query, Redux/Zustand/Pinia, Tailwind CSS — feature-based architecture, role-aware routing, performance<br/>
 🔹 **Backend & Architecture:** Node.js, NestJS, Express.js, REST APIs, Prisma, PostgreSQL/MongoDB, JWT auth, multi-tenant & RBAC system design<br/>
 🔹 **Delivery:** Docker, CI/CD, Git, automated testing (Jest/Mocha)
-
 <br/>
 
 ### 💼 Selected Work
@@ -65,3 +63,10 @@ Multi-tenant NestJS/Prisma backend for schools to run attendance- and homework-b
   <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
 </p>
 </details>
+
+<br/>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=WebCONuz&show_icons=true&theme=default&hide_border=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WebCONuz&hide_border=true" height="150"/>
+</p>
