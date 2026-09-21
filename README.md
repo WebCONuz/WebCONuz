@@ -65,10 +65,3 @@ Multi-tenant NestJS/Prisma backend for schools to run attendance- and homework-b
   <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
 </p>
 </details>
-
-<br/>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=WebCONuz&show_icons=true&theme=default&hide_border=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WebCONuz&hide_border=true" height="150"/>
-</p>
