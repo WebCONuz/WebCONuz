@@ -17,7 +17,6 @@ NestJS/PostgreSQL API that turns uploaded PDF/DOCX files into ready quiz questio
 
 **[ERP Coin System](https://github.com/WebCONuz/erp-coin-system-backend)** — Multi-tenant gamification platform ([backend](https://github.com/WebCONuz/erp-coin-system-backend) · [frontend](https://github.com/WebCONuz/erp-coin-system-frontend))
 Multi-tenant NestJS/Prisma backend for schools to run attendance- and homework-based reward programs: tenant-isolated data, a level-based role hierarchy (creator → super admin → admin → teacher → student), and a transaction-ledger wallet — balances only ever change through logged transactions, never direct writes. Also generates recurring class sessions from weekly schedule templates with exception handling. React frontend built feature-by-feature with TanStack Query and Zustand.
-
 <br/>
 
 ### 📫 Connect
@@ -25,7 +24,6 @@ Multi-tenant NestJS/Prisma backend for schools to run attendance- and homework-b
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Mukhammadi_Dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mukhammadi-toshtemirov-a4b81526a/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mukhammadidev.netlify.app/)
-
 <br/>
 
 <details>
